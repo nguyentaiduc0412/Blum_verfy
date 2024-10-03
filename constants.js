@@ -9,6 +9,7 @@ const VERIFY_TASK_MAPPING = {
   "b611352b-0d8c-44ec-8e0f-cd71b5922ca5": "BLUMERSSS",
   "92373c2b-2bf3-44c0-90f7-a7fd146c05c5": "HAPPYDOGS",
   "d2715289-b487-43bc-bc21-18224f8f6bc3": "NODOXXING",
+  "7067a3db-d9c5-4268-ac19-c393743e8491": "WOWBLUM"
 };
 
 module.exports = { VERIFY_TASK_MAPPING };
