@@ -7,7 +7,11 @@ const VERIFY_TASK_MAPPING = {
  158: "AFFILIATE",
  154: "AUCTION",
  155:"AUDIT",
- 159:"BAG"
+ 159:"BAG",
+ 160:"ALTCOIN",
+ 161:"BAKING",
+ 161:"ALPHA",
+ 163:"BAKERS"
 };
 
 module.exports = { VERIFY_TASK_MAPPING };
