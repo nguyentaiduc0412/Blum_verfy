@@ -11,7 +11,9 @@ const VERIFY_TASK_MAPPING = {
  160:"ALTCOIN",
  161:"BAKING",
  162:"ALPHA",
- 163:"BAKERS"
+ 163:"BAKERS",
+ 164:"ASIC",
+ 165:"BITPAY"
 };
 
 module.exports = { VERIFY_TASK_MAPPING };
