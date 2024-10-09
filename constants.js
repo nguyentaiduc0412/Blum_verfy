@@ -11,7 +11,8 @@ const VERIFY_TASK_MAPPING = {
   "d2715289-b487-43bc-bc21-18224f8f6bc3": "NODOXXING",
   "7067a3db-d9c5-4268-ac19-c393743e8491": "WOWBLUM",
   "1572a605-d714-4f2c-8045-9c5f874d9c7e": "MEMEBLUM",
-  "30d9f351-614e-4565-a1bb-e7e94fc3dc3c": "ONFIRE"
+  "30d9f351-614e-4565-a1bb-e7e94fc3dc3c": "ONFIRE",
+  "d2a972a1-12ab-4c7b-a411-da056609f2bd": "SOBLUM"
 };
 
 module.exports = { VERIFY_TASK_MAPPING };
