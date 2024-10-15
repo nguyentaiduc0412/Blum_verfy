@@ -14,6 +14,7 @@ const VERIFY_TASK_MAPPING = {
   "30d9f351-614e-4565-a1bb-e7e94fc3dc3c": "ONFIRE",
   "d2a972a1-12ab-4c7b-a411-da056609f2bd": "SOBLUM",
   "56d210c1-446b-473b-b7c4-cba856b4476c": "BLUMEXPLORER"
+  "661da601-8ef5-42b0-bad8-b228baa7d945": "CRYPOFAN"
 };
 
 module.exports = { VERIFY_TASK_MAPPING };
