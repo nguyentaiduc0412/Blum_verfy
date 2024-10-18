@@ -16,6 +16,8 @@ const VERIFY_TASK_MAPPING = {
   "56d210c1-446b-473b-b7c4-cba856b4476c": "BLUMEXPLORER",
   "25928ae7-c3c2-40ba-bb78-975ed68e4a5a": "CRYPTOFAN",
   "dc627a62-f747-4cbb-981f-62cf82a85458": "BLUMTASTIC"
+  "d72d558b-ce90-4e80-8dd8-109a134fe36a": "BLUMFORCE",
+  "c11fe842-e014-4ae2-94d7-f93e2cfd3ed5": "BLUMFORCE"
 };
 
 module.exports = { VERIFY_TASK_MAPPING };
