@@ -1,4 +1,4 @@
 const config_seed = {
-  "ace94ccd-be20-43e3-a105-60dd80717ecb": "Cryptocurrency,
+  "d0703548-040d-4527-a97d-647d26e172b0": "Cryptocurrency",
 }
 module.exports = { config_seed };
