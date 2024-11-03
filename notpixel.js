@@ -1,8 +1,5 @@
 const config_notpixel = {
-  "xTopLeft": 107,
-  "yTopLeft": 282,
-  "xBottomRight": 234,
-  "yBottomRight": 308,
-  "templateId":1863187931
+  "color": #FFFFFF,
+  "templateId":1270595015
 }
 module.exports = { config_notpixel };
