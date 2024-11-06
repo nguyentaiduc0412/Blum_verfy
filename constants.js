@@ -24,7 +24,8 @@ const VERIFY_TASK_MAPPING = {
   "98d390d1-95da-475f-8df9-53a335842c3a": "BLUMHELPS",
   "92bc4338-85ca-4bf9-a0a5-320e677116fd": "FOMOOO",
   "98d390d1-95da-475f-8df9-53a335842c3a": "BLUMHELPS",
-  "bb84e765-31aa-4f0d-8430-b3f75d88c1aa": "CRYPTOZONE"
+  "bb84e765-31aa-4f0d-8430-b3f75d88c1aa": "CRYPTOZONE",
+  "7a3502e2-cdc7-4842-8879-bbeb2ebec594"" "BLUMIFY"
 };
 
 module.exports = { VERIFY_TASK_MAPPING };
