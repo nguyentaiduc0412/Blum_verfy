@@ -6,6 +6,7 @@ const config_seed = {
   "7c7bffa3-cd52-4443-8647-4d2201cb7c7a":"Wallet",
   "39e322d0-df19-49de-92d9-7675170cd65f":"Blockchain",
   "450a4a67-f3bb-4f78-975c-30bba2cb57c3":"BTCTOTHEMOON",
-  "ae196f2c-7a8c-47e9-8c86-95f8c27f07b9":"TRANSACTION"
+  "ae196f2c-7a8c-47e9-8c86-95f8c27f07b9":"TRANSACTION",
+  "c29e59ac-55dd-414c-a065-03802e50d3af":"OKXEED"
 }
 module.exports = { config_seed };
