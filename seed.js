@@ -7,6 +7,9 @@ const config_seed = {
   "39e322d0-df19-49de-92d9-7675170cd65f":"Blockchain",
   "450a4a67-f3bb-4f78-975c-30bba2cb57c3":"BTCTOTHEMOON",
   "ae196f2c-7a8c-47e9-8c86-95f8c27f07b9":"TRANSACTION",
-  "c29e59ac-55dd-414c-a065-03802e50d3af":"OKXEED"
+  "c29e59ac-55dd-414c-a065-03802e50d3af":"OKXEED",
+  "99f3c62f-d396-4f81-8e64-32a972bba2ab":"BULLRUN",
+  "52e80660-083a-40df-841c-2a44221dc4b6":"BRESEED",
+  "a497c5a2-700d-4ea7-ae6d-2b31e84585eb","GETGEMS"
 }
 module.exports = { config_seed };
