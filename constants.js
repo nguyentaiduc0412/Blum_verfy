@@ -29,7 +29,9 @@ const VERIFY_TASK_MAPPING = {
   "4477c434-f8df-4432-a3d7-b47a6e44c1d7": "DEXXX",
   "d275de44-df86-45f7-92e0-fb28e3a01830": "CRYPTOGAS",
   "a11ba4c2-6be5-4dd8-a371-b2ed82632e6a": "CRYPTOBUZZ",
-  "6ffe9d16-e63c-49f0-935d-f428e29d4a4d": "BLUMNOW"
+  "6ffe9d16-e63c-49f0-935d-f428e29d4a4d": "BLUMNOW",
+  "f59b84fe-61ae-4cf5-8aae-5fd00321e052": "SMARTBLUM",
+  "76b9a0fc-a67c-45ab-92fe-68530d45f57f": "BOOBLUM"
 };
 
 module.exports = { VERIFY_TASK_MAPPING };
