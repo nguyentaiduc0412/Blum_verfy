@@ -12,6 +12,7 @@ const config_seed = {
   "52e80660-083a-40df-841c-2a44221dc4b6":"BRESEED",
   "a497c5a2-700d-4ea7-ae6d-2b31e84585eb":"GETGEMS",
   "2931da7e-5ac7-4c38-8e44-f52960f4e823":"BIRDIE",
-  "4cc53121-5243-49f7-844e-85d169452626":"Marketmaker"
+  "4cc53121-5243-49f7-844e-85d169452626":"Marketmaker",
+  "9e32a590-d735-40e4-b6c8-e9aa4cb38563":"SEEDNOMICS"
 }
 module.exports = { config_seed };
