@@ -13,6 +13,9 @@ const config_seed = {
   "a497c5a2-700d-4ea7-ae6d-2b31e84585eb":"GETGEMS",
   "2931da7e-5ac7-4c38-8e44-f52960f4e823":"BIRDIE",
   "4cc53121-5243-49f7-844e-85d169452626":"Marketmaker",
-  "9e32a590-d735-40e4-b6c8-e9aa4cb38563":"SEEDNOMICS"
+  "9e32a590-d735-40e4-b6c8-e9aa4cb38563":"SEEDNOMICS",
+  "378e971c-d7a2-4590-8328-e80587080d43":"200kBTC",
+  "560e3bf3-0da7-4329-a9e0-bc1e11b4eb97":"SEEDTOKEN",
+  "b70db934-28b3-4bab-a92d-a3351519dfa2":"POSINEGATIVE"
 }
 module.exports = { config_seed };
