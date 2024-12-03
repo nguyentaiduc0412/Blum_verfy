@@ -16,6 +16,7 @@ const config_seed = {
   "9e32a590-d735-40e4-b6c8-e9aa4cb38563":"SEEDNOMICS",
   "378e971c-d7a2-4590-8328-e80587080d43":"200kBTC",
   "560e3bf3-0da7-4329-a9e0-bc1e11b4eb97":"SEEDTOKEN",
-  "b70db934-28b3-4bab-a92d-a3351519dfa2":"POSINEGATIVE"
+  "b70db934-28b3-4bab-a92d-a3351519dfa2":"POSINEGATIVE",
+  "fb2ac6c1-6bb1-4389-9c08-076dcce010ea":"WAVEMAKER"
 }
 module.exports = { config_seed };
