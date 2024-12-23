@@ -20,6 +20,7 @@ const config_seed = {
   "fb2ac6c1-6bb1-4389-9c08-076dcce010ea":"WAVEMAKER",
   "a05b5182-d2c4-4b9d-8608-104f88f0221a":"ANTIRUGPULL",
   "5f38d1fd-f778-450f-83d9-89cb013a2186":"NOHANDSNORUG",
-  "5759b641-d346-4b44-bdf3-345a9e22159b":"WRONGFINGER"
+  "5759b641-d346-4b44-bdf3-345a9e22159b":"WRONGFINGER",
+  "9bc9cdad-4920-4994-88c4-8f6325e1c079":"Mooningwithseed"
 }
 module.exports = { config_seed };
